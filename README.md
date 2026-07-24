@@ -1,16 +1,99 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Teixeira 👋
 
-<!--
-**Matheuscrf/Matheuscrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software
 
-Here are some ideas to get you started:
+🎓 Formado em Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Rio de Janeiro - RJ
+
+Apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo.
+
+Atualmente busco minha primeira oportunidade como Desenvolvedor Front-end, Back-end ou Full Stack, contribuindo com soluções modernas e escaláveis.
+
+---
+
+## 🚀 Tecnologias
+
+### Linguagens
+
+- JavaScript
+- TypeScript
+- Python
+- PHP
+- SQL
+
+### Front-end
+
+- React
+- Next.js
+- Angular
+- Ionic
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+
+### Back-end
+
+- Node.js
+- Express
+
+### Banco de Dados
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- Firebase
+
+### Cloud & DevOps
+
+- AWS
+- Docker
+- Git
+- GitHub
+
+---
+
+## 📂 Projetos
+
+### Product Showcase
+
+Aplicação desenvolvida em React + TypeScript consumindo API REST.
+
+🔗 GitHub
+
+---
+
+### Inventory Dashboard
+
+Sistema Full Stack utilizando React, Django REST Framework e PostgreSQL.
+
+🔗 GitHub
+
+---
+
+### Food Analytics
+
+Dashboard para análise de dados utilizando React e Node.js.
+
+🔗 GitHub
+
+---
+
+## 📜 Certificações
+
+✔ AWS Academy Cloud Foundations
+
+✔ Análise e Desenvolvimento de Sistemas
+
+✔ Gerência de Projetos de Software
+
+---
+
+## 📫 Contato
+
+LinkedIn
+
+GitHub
+
+Email
