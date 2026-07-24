@@ -19,12 +19,12 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-end**, *
 ## 🚀 Sobre mim
 
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 💼 Em busca da minha primeira oportunidade como Desenvolvedor de Software
+- 💼 Buscando minha primeira oportunidade como Desenvolvedor de Software
 - 🌱 Estudando Arquitetura de Software, AWS e boas práticas de desenvolvimento
-- 🤝 Gosto de aprender novas tecnologias, resolver problemas e construir soluções úteis
+- 🤝 Gosto de aprender novas tecnologias, resolver problemas e desenvolver soluções que gerem valor
 - 👨‍👩‍👧 Valorizo o tempo com minha esposa e minha filha, buscando manter equilíbrio entre vida pessoal e profissional
-- 📚 Aprecio leitura e aprendizado contínuo
-- ⚽ Pratico futebol e acredito no trabalho em equipe dentro e fora da tecnologia
+- 📚 Acredito no aprendizado contínuo e cultivo o hábito da leitura
+- ⚽ Gosto de futebol e acredito que trabalho em equipe faz a diferença, tanto dentro quanto fora da tecnologia
 
 ---
 
@@ -73,17 +73,18 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-end**, *
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheuscrf&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscrf&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheuscrf&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscrf&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🔥 Sequência de Contribuições
 
-<p align="center">
+[<p align="center">
   <img src="https://streak-stats.demolab.com?user=Matheuscrf&theme=github-dark-blue&hide_border=true"/>
-</p>
+</p>](https://github-readme-streak-stats.herokuapp.com/?user=Matheuscrf&theme=github-dark&hide_border=true)
 
 ---
 
