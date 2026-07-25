@@ -70,24 +70,6 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-end**, *
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheuscrf&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuscrf&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Sequência de Contribuições
-
-[<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheuscrf&theme=github-dark-blue&hide_border=true"/>
-</p>](https://github-readme-streak-stats.herokuapp.com/?user=Matheuscrf&theme=github-dark&hide_border=true)
-
----
-
 ## 🎯 Atualmente
 
 - 🚀 Desenvolvendo novos projetos para fortalecer meu portfólio
