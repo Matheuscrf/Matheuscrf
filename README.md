@@ -88,14 +88,6 @@ Atualmente busco minha primeira oportunidade como **Desenvolvedor Front-end**, *
 <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Teixeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/MT_teixeir4" target="_blank">
-<img src="https://img.shields.io/badge/X-@MT__teixeir4-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/theusteixeiraa/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@theusteixeiraa-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="mailto:Matheusrio1@live.com">
 <img src="https://img.shields.io/badge/Email-Matheusrio1%40live.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
