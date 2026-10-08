@@ -1,4 +1,4 @@
-# Olá, eu sou o Matheus Teixeira 👋
+# Olá, eu sou o Matheus Teixeira Pimentel 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Desenvolvedor+de+Software;Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Sempre+aprendendo+novas+tecnologias!" alt="Typing SVG" />
